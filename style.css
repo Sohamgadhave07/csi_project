@@ -1,0 +1,306 @@
+nav object {
+    margin-left: 200px;
+    position: relative;
+}
+
+nav ul {
+    margin-left: 500px;
+    margin-top: 50px;
+    position: relative;
+    font-weight: 300;
+}
+
+
+ul li {
+    list-style: none;
+    display: inline;
+    padding: 53px;
+    font-size: 25px;
+    color: white;
+
+}
+
+.logo {
+    margin-top: 20px;
+    margin-left: 200px;
+
+
+}
+
+.bg img {
+
+    position: absolute;
+    margin-top: 10px;
+    top: 0;
+    z-index: -1;
+    width: 1500px;
+    height: 700px;
+
+}
+
+
+.para {
+    color: white;
+    font-weight: 500;
+    font-size: 50px;
+    margin-left: 200px;
+}
+
+.aa {
+    color: white;
+    font-size: 20px;
+    font-weight: 100;
+    margin-left: 200px;
+
+}
+
+.but span {
+    background-color: blue;
+    color: white;
+    border-radius: 5px;
+    margin-left: 200px;
+}
+
+.seperation {
+    height: 5px;
+    width: 1300px;
+    background-color: white;
+    margin-left: 100px;
+}
+
+.box {
+    height: 200px;
+    width: 1300px;
+    background-color: white;
+    border-radius: 10px;
+    margin-left: 100px;
+    margin-top: 100px;
+}
+
+.box img {
+    padding: 50px;
+}
+
+.boxes1 p {
+    text-align: center;
+    font-size: 60px;
+    font-weight: 1000;
+    display: flex;
+    justify-content: center;
+}
+
+.property {
+    height: 1700px;
+    width: 1500px;
+    display: flex;
+    flex-wrap: wrap;
+    row-gap: 10px;
+    column-gap: 20px;
+    background-color: grey;
+
+
+
+}
+
+.card {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    border-radius: 20px;
+    display: flex;
+    height: 500px;
+    width: 450px;
+    background-color: grey;
+
+    z-index: 3;
+
+
+
+}
+
+.property img {
+    border-radius: 20px;
+    height: 100 px;
+    width: 350px;
+    height: 350px;
+    display: flex;
+    z-index: 4;
+}
+
+.property .cc {
+    height: 100px;
+    width: 300px;
+    background-color: white;
+    border-radius: 20px;
+    margin-top: 300px;
+    margin-left: 70px;
+    display: flex;
+    z-index: 5;
+    position: absolute;
+
+
+}
+
+.num1 {
+    font-size: 25px;
+    margin-top: 20px;
+    margin-left: 10px;
+    position: absolute;
+
+}
+
+.num2 {
+    font-size: 25px;
+    margin-top: 40px;
+    margin-left: 10px;
+    position: relative;
+    color: rgb(45, 67, 240);
+}
+
+.num3 {
+    position: relative;
+    margin-left: 50px;
+    margin-top: 25px;
+    font-size: x-large;
+    background-color: rgb(45, 67, 240);
+    color: white;
+    height: 30px;
+    border-radius: 10px;
+    width: 100px;
+    text-align: center;
+}
+
+.temp1 img {
+    height: 1000px;
+    width: 500px;
+    position: absolute;
+
+}
+
+.temp2 img {
+    height: 400px;
+    width: 400px;
+    position: relative;
+    left: 90px;
+    top: 200px;
+    border-radius: 20px;
+}
+
+.temp3 {
+    position: relative;
+    left: 650px;
+    font-size: 50px;
+    bottom: 100px;
+    font-weight: 1000;
+}
+
+.temp4 {
+
+    left: 650px;
+    font-size: 20px;
+    top: 20px;
+
+}
+
+.early {
+    background-color: rgb(45, 67, 240);
+    width: 150px;
+    height: 30px;
+    border-radius: 8px;
+    color: white;
+}
+
+.temp7 img {
+    margin-top: 350px;
+    height: 500px;
+    display: flex;
+    width: 650px;
+    margin-left: 800px;
+    position: absolute;
+
+}
+
+.temp8 img {
+    height: 400px;
+    width: 350px;
+    position: relative;
+    left: 950px;
+    top: 350px;
+    border-radius: 20px;
+}
+
+.temp9 {
+    position: relative;
+    left: 70px;
+    font-size: 50px;
+    bottom: 100px;
+    font-weight: 1000;
+    top: 20px;
+}
+
+.blue {
+    margin-top: 250px;
+    margin-left: 130px;
+    height: 400px;
+    width: 1200px;
+    background-color: rgb(113, 113, 222);
+    border-radius: 50px;
+    position: absolute;
+
+}
+
+.big {
+    color: white;
+    font-size: 50px;
+    margin-left: 275px;
+
+}
+
+.small {
+    color: white;
+    font-size: 20px;
+    margin-left: 220px;
+}
+
+.final :placeholder-shown {
+    margin-top: 40px;
+    background-color: rgb(113, 113, 222);
+    border-radius: 20px;
+    margin-left: 250px;
+    width: 400px;
+    height: 30px;
+    position: absolute;
+
+}
+
+.subscribe {
+    width: 155px;
+    height: 30px;
+    margin-top: 40px;
+    background-color: #fff;
+    ;
+    border-radius: 20px;
+    margin-left: 750px;
+    font-size: 30px;
+    color: rgb(113, 113, 222);
+    ;
+}
+
+.last {
+    margin-left: 130px;
+    top: 800px;
+    position: relative
+}
+
+.finish {
+    list-style-type: none;
+    display: flex;
+    column-gap: 90px;
+    position: relative;
+    margin-left: 650px;
+    bottom: 250px;
+
+}
+body{
+    overflow-x: hidden;
+}
+}
